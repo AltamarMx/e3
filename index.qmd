@@ -248,9 +248,9 @@ Los debates sobre IA y orden global deben incluir tres palabras:
 
 ## Gracias
 
-**Dr. Guillermo Barrios del Valle**
-Instituto de Energías Renovables, UNAM
-[gbv@ier.unam.mx](mailto:gbv@ier.unam.mx)
+
+![](img/qrcode_e3.png){.center}
+
 
 ::: aside
 Presentación construida con Quarto + revealjs · fuente disponible en el repositorio del evento.
